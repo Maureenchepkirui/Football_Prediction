@@ -29,7 +29,8 @@ Loading datasets and previewing datasets.
 Data Cleaning
 
 Exploratory Data Analysis
-
+```
+  
 
 
 # Technologies used
@@ -42,11 +43,6 @@ Pandas
 
 Numpy
 
-# Known Bugs
-```
-Not enough data analysis given.
-
-```
 
 # Contact Details
 ```
